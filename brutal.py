@@ -47,7 +47,6 @@ autoketik(f"""
 {putih}[{biru}•{putih}] {abu}GitHub {putih}   : FatihArridho
 {putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : Fatih Arridho
 {putih}[{biru}•{putih}] {ungu}Instagram {putih}: @fatdho
-{W}[{Y}•{W}] Ip Kamu {putih}  :{Y} {ip}
 {W}[{Y}•{W}] Waktu/Jam {putih}:{Y} {localtime}
 {W}[{Y}•{W}] Total Run {putih}:{Y} {getvisit['value']}
 """)
